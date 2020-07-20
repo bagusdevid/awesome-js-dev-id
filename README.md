@@ -322,7 +322,8 @@
   - LinkedIn: N/A
   - Blog: N/A
   - Medium: [@sonnylazuardi](https://medium.com/@sonnylazuardi)
-
+  
+## T
 + **Tubagus Gita Priadi**
   - Skills: #React, #ReactNative #WebPlatform
   - Github: https://github.com/merdekadwiputra
