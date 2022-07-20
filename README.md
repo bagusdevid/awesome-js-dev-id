@@ -326,13 +326,11 @@
 ## T
 + **TB Gita Priadi**
   - Skills: #React, #ReactNative #WebPlatform
-  - Github: https://github.com/bagusdevid
-  - Facebook: https://www.facebook.com/thetanakaz
-  - Twitter: https://www.twitter.com/tubagusmilk
-  - Instagram: https://www.instagram.com/uncle_gita
-  - LinkedIn: N/A
-  - Website: https://bagusdev.id
-  - Medium: N/A
+  - Github: [bagusdevid](https://github.com/bagusdevid)
+  - Facebook: [tubagus](https://www.facebook.com/profile.php?id=100069729041726)
+  - Twitter: [@tubagusmilk](https://twitter.com/tubagusmilk)
+  - Instagram: [@uncle_gita](https://www.instagram.com/uncle_gita)
+  - Website: [BagusDev ID](https://bagusdev.id)
 
 ## U
 
