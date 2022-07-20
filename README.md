@@ -324,14 +324,14 @@
   - Medium: [@sonnylazuardi](https://medium.com/@sonnylazuardi)
   
 ## T
-+ **Tubagus Gita Priadi**
++ **TB Gita Priadi**
   - Skills: #React, #ReactNative #WebPlatform
-  - Github: https://github.com/merdekadwiputra
+  - Github: https://github.com/bagusdevid
   - Facebook: https://www.facebook.com/thetanakaz
-  - Twitter: @tubagusmilk
-  - Instagram: @tubagus.gita
+  - Twitter: https://www.twitter.com/tubagusmilk
+  - Instagram: https://www.instagram.com/uncle_gita
   - LinkedIn: N/A
-  - Blog: https://tubagus.xyz
+  - Website: https://bagusdev.id
   - Medium: N/A
 
 ## U
